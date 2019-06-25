@@ -1,7 +1,6 @@
 
 
 assets
-*.html
 *_files
 public/
 templateWorkshops-master/
