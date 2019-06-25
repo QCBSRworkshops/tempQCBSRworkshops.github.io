@@ -1,3 +1,11 @@
+---
+title: "QCBS R workshops"
+author: "Marie-Helene Brice"
+date: '2019-06-25'
+output: html_document
+---
+
+
 
 ## [QCBS R Workshop series](https://wiki.qcbs.ca/r)
 
