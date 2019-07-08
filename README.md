@@ -13,7 +13,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 # QCBS R Workshops | Ateliers R du CSBQ
 
-## Workshop | Atelier 01 [:fa-github:](https://github.com/QCBSRworkshops/workshop01) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop01.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop01)
+## Workshop | Atelier 01 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop01.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop01)
 
 #### Introduction to R - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop01/workshop01-en/workshop01-en.html)
 
