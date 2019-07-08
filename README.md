@@ -1,23 +1,29 @@
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-## [QCBS R Workshop series](https://wiki.qcbs.ca/r)
+# [QCBS R Workshop series](https://wiki.qcbs.ca/r)
 
 This series of 10 workshops walks participants through the steps required to use R for a wide array of statistical analyses relevant to research in biology and ecology. These open-access workshops were created by members of the QCBS both for members of the QCBS and the larger community.
 
 The content of this workshop has been peer-reviewed by several QCBS members. If you would like to suggest modifications, please contact the current series coordinators, listed [here](https://wiki.qcbs.ca/r).
 
-## [Série d'ateliers R du CSBQ](https://wiki.qcbs.ca/r)
+# [Série d'ateliers R du CSBQ](https://wiki.qcbs.ca/r)
 
 Cette série de 10 ateliers guide les participants à travers les étapes requises afin de maîtriser le logiciel R pour une grande variété d’analyses statistiques pertinentes en recherche en biologie et en écologie. Ces ateliers en libre accès ont été créés par des membres du CSBQ à la fois pour les membres du CSBQ et pour la grande communauté d’utilisateurs de R.
 
 Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vous souhaitez y apporter des modifications, veuillez SVP contacter les coordonnateurs actuels de la série, listés [ici](https://wiki.qcbs.ca/r).
 
+
 # QCBS R Workshops | Ateliers R du CSBQ
 
-## Workshop | Atelier 01 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop01.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop01)
+## Workshop | Atelier 01 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01) [![Travis CI](https://img.shields.io/travis/QCBSRworkshops/workshop01/dev.svg?style=for-the-badge)](https://travis-ci.org/envygeeks/jekyll-assets)
+
 
 #### Introduction to R - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop01/workshop01-en/workshop01-en.html)
 
 #### Introduction à R - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop01/workshop01-fr/workshop01-fr.html)
+
+
+<br>
 
 ## Workshop | Atelier 02 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop02) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop02.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop02)
 
@@ -25,17 +31,23 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 #### Charger et manipuler les données  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop02/workshop02-fr/workshop02-fr.html)
 
+<br>
+
 ## Workshop | Atelier 03 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop03) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop03.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop03)
 
 #### Introduction to ggplot2 - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop03/workshop03-en/workshop03-en.html)
 
 #### Introduction à ggplot2  - [voir la présentation (en anglais seulement) <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop03/workshop03-en/workshop03-en.html)
 
+<br>
+
 ## Workshop | Atelier 04 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop04) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop04.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop04)
 
 #### Linear models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop04/workshop04-en/workshop04-en.html)
 
 #### Modèles linéaires  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop04/workshop04-fr/workshop04-fr.html)
+
+<br>
 
 
 ## Workshop | Atelier 05 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop05) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop05.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop05)
@@ -44,6 +56,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 #### Programmation en R  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop05/workshop05-fr/workshop05-fr.html)
 
+<br>
 
 ## Workshop | Atelier 06 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop06) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop06.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop06)
 
@@ -51,6 +64,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 #### Modèles linéaires mixtes  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop06/workshop06-fr/workshop06-fr.html)
 
+<br>
 
 ## Workshop | Atelier 07 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop07) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop07.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop07)
 
@@ -58,6 +72,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 #### Modèles linéaires mixtes généralisés  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop07/workshop07-fr/workshop07-fr.html)
 
+<br>
 
 ## Workshop | Atelier 08 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop08) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop08.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop08)
 
@@ -65,11 +80,15 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 #### Modèles additifs généralisés  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop08/workshop08-fr/workshop08-fr.html)
 
+<br>
+
 ## Workshop | Atelier 09 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop09) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop09.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop09)
 
 #### Multivariate analyses - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop09/workshop09-en/workshop09-en.html)
 
 #### Analyses multivariées  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop09/workshop09-fr/workshop09-fr.html)
+
+<br>
 
 ## Workshop | Atelier 10 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop10) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop10.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop10)
 
