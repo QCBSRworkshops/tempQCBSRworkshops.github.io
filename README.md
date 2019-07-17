@@ -6,11 +6,17 @@ This series of 10 workshops walks participants through the steps required to use
 
 The content of this workshop has been peer-reviewed by several QCBS members. If you would like to suggest modifications, please contact the current series coordinators, listed [here](https://wiki.qcbs.ca/r).
 
+*To contribute to the QCBS R workshops, please refer to the instructions
+on the [Wiki page](https://github.com/QCBSRworkshops/Workshops/wiki).*
+
 # [Série d'ateliers R du CSBQ](https://wiki.qcbs.ca/r)
 
 Cette série de 10 ateliers guide les participants à travers les étapes requises afin de maîtriser le logiciel R pour une grande variété d’analyses statistiques pertinentes en recherche en biologie et en écologie. Ces ateliers en libre accès ont été créés par des membres du CSBQ à la fois pour les membres du CSBQ et pour la grande communauté d’utilisateurs de R.
 
 Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vous souhaitez y apporter des modifications, veuillez SVP contacter les coordonnateurs actuels de la série, listés [ici](https://wiki.qcbs.ca/r).
+
+*Pour contribuer aux ateliers R du CSBQ, veuillez vous référez aux
+instructions de la [page Wiki](https://github.com/QCBSRworkshops/Workshops/wiki).*
 
 
 # QCBS R Workshops | Ateliers R du CSBQ
@@ -95,3 +101,75 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 #### Advanced multivariate analyses - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop10/workshop10-en/workshop10-en.html)
 
 #### Analyses multivariées avancées  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop10/workshop10-fr/workshop10-fr.html)
+
+-----
+
+# Contribute to the QCBS R Workshops!
+
+In this section, we explain how you can contribute to the QCBS R workshops.
+
+## Getting started
+
+### Install package and clone repo
+
+These Rmarkdown presentations are created using
+[`xaringan`](https://bookdown.org/yihui/rmarkdown/xaringan.html). See the QCBS
+template demo [presentation](https://qcbsrworkshops.github.io/templateWorkshops/) and associate [html file](https://raw.githubusercontent.com/QCBSRworkshops/templateWorkshops/master/index.html) to learn how it works.
+
+The package `qcbsRworkshops` was created to facilitate the development of the R workshops, so the first step in to install and load the package `qcbsRworkshops`.
+
+```r
+install.packages("remotes")
+remotes::install_github("QCBSRworkshops/qcbsRworkshops")
+library(qcbsRworkshops)
+```
+
+Secondly, you need to create a local copy on your computer of the **workshop##** repository you will be working on. For example, if you want to work on workshop #1, you can [clone the GitHub repository](https://help.github.com/articles/cloning-a-repository/) on your computer using the command line:
+
+```r
+git clone https://github.com/QCBSRworkshops/workshop01.git
+```
+
+## Workflow
+
+1. Once you cloned the **workshop##** repository, you should be on the dev branch.
+
+2. Create a **new branch** (choose a name that reflects what you are adding, we suggest something explicit like `workshop01_intro` if you want to edit the introduction of workshop #1): `git branch workshop01_intro`.
+
+3. Switch branch: `git checkout workshop01_intro`; Note that you can create and switch branch with a single line of command: `git checkout -b workshop01_intro`.
+
+4. Do your changes!
+
+5. Once you are done with your changes on your branch, render the presentation using `build_workshops()` R function from the `qcbsRworkshops` package to check if everything works:
+
+```r
+# if the workshop folder is the current working directory (preferred), then use
+build_workshops()
+# if the path to the workshop folder is "path2workshop", then use
+build_workshops("path2workshop")
+```
+
+5. Now that the presentation renders correctly, add and commit using the command line: `git add -A` and `git commit -m "instructive message about what you did"`.
+
+6. Go back on the dev branch: `git checkout dev` and pull `git pull` just to make sure you are up to date.
+
+7. Switch back to your branch: `git checkout workshop01_intro` and merge locally: `git merge dev`. If there are conflicts, please resolve them! When you're done, push your branch on the Github repository: `git push --set-upstream origin workshop01_intro`.
+
+8. Open a [Pull Request (PR)](https://help.github.com/articles/about-pull-requests/).
+
+9. Assign your PR to a reviewer (one of the 3 R workshop coordinators).
+
+10. The reviewer will squash and merge the post once the build passed on Travis.
+
+11. Once the PR is merged, do not forget to pull the dev branch!
+
+
+## Other ways to help us!
+
+If you are not comfortable with GitHub, you can still help us improve the workshops!
+
+If you notice any mistakes or inconsistencies, or if you'd like to make a suggestion, either in form or in content, you're invited to open an [Issue](https://help.github.com/articles/about-issues/). You can follow these simple steps to create a new [Issue](https://help.github.com/articles/creating-an-issue/).
+
+## To modify the template
+
+The template files (names that start with `qcbsR...`) and assets folder that are used to build the final presentations are in the repo [`templateWorkshops`](https://github.com/QCBSRworkshops/templateWorkshops); the version in the workshop folder are only used locally. This means that local modification to the template files will not be used once you pushed. The template should not be modified. <!--use the command line : `make copy_css` to copy the template files in all the workshop folders.-->
