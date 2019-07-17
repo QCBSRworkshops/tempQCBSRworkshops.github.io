@@ -15,7 +15,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 # QCBS R Workshops | Ateliers R du CSBQ
 
-## Workshop | Atelier 01 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01) [![Travis CI](https://img.shields.io/travis/QCBSRworkshops/workshop01/dev.svg?style=for-the-badge)](https://travis-ci.org/envygeeks/jekyll-assets)
+## Workshop | Atelier 01 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop01.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop01)
 
 
 #### Introduction to R - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop01/workshop01-en/workshop01-en.html)
@@ -25,7 +25,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 02 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop02) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop02.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop02)
+## Workshop | Atelier 02 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop02) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop02.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop02)
 
 #### Loading and manipulating data - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop02/workshop02-en/workshop02-en.html)
 
@@ -33,7 +33,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 03 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop03) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop03.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop03)
+## Workshop | Atelier 03 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop03) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop03.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop03)
 
 #### Introduction to ggplot2 - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop03/workshop03-en/workshop03-en.html)
 
@@ -41,7 +41,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 04 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop04) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop04.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop04)
+## Workshop | Atelier 04 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop04) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop04.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop04)
 
 #### Linear models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop04/workshop04-en/workshop04-en.html)
 
@@ -50,7 +50,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 <br>
 
 
-## Workshop | Atelier 05 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop05) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop05.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop05)
+## Workshop | Atelier 05 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop05) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop05.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop05)
 
 #### Programming in R - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop05/workshop05-en/workshop05-en.html)
 
@@ -58,7 +58,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 06 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop06) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop06.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop06)
+## Workshop | Atelier 06 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop06) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop06.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop06)
 
 #### Linear mixed models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop06/workshop06-en/workshop06-en.html)
 
@@ -66,7 +66,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 07 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop07) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop07.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop07)
+## Workshop | Atelier 07 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop07) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop07.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop07)
 
 #### Generalized linear mixed models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop07/workshop07-en/workshop07-en.html)
 
@@ -74,7 +74,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 08 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop08) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop08.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop08)
+## Workshop | Atelier 08 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop08) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop08.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop08)
 
 #### Generalized additive models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop08/workshop08-en/workshop08-en.html)
 
@@ -82,7 +82,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 09 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop09) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop09.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop09)
+## Workshop | Atelier 09 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop09) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop09.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop09)
 
 #### Multivariate analyses - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop09/workshop09-en/workshop09-en.html)
 
@@ -90,7 +90,7 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 <br>
 
-## Workshop | Atelier 10 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop10) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop10.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop10)
+## Workshop | Atelier 10 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop10) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop10.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop10)
 
 #### Advanced multivariate analyses - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop10/workshop10-en/workshop10-en.html)
 
