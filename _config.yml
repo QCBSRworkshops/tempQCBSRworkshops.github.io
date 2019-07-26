@@ -1,4 +1,27 @@
-theme: jekyll-theme-minimal
+theme: minima
+author: QCBS R Workshops
 title: QCBS R Workshops | Ateliers R du CSBQ
-description: Instructions to contribute
-logo: https://qcbs.ca/wp-content/uploads/2010/05/image0032.png
+description: Guidelines for contributors
+
+header_pages:
+ - guidelines.md
+
+plugins:
+  - jemoji
+   - jekyll-feed
+   - jekyll-seo-tag
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github: jekyll
+
+
+
+# Below is what we used with theme-jekyll-minial
+# description: Guidelines for contributors
+# logo: https://qcbs.ca/wp-content/uploads/2010/05/image0032.png
+# is_project_page: true
