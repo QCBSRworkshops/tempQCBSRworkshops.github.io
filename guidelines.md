@@ -15,7 +15,7 @@ The workshop presentations were created using [Rmarkdown](https://rmarkdown.rstu
 [`xaringan`](https://bookdown.org/yihui/rmarkdown/xaringan.html). See the QCBS
 template [demo presentation](https://qcbsrworkshops.github.io/templateWorkshops/) and associate [html files](https://raw.githubusercontent.com/QCBSRworkshops/templateWorkshops/master/index.html) to learn how it works.
 
-The package [`qcbsRworkshops` :package:](https://github.com/QCBSRworkshops/qcbsRworkshops) was created to facilitate the development of the R workshops, so the first step is to install and load the package `qcbsRworkshops`.
+The package [`qcbsRworkshops`](https://github.com/QCBSRworkshops/qcbsRworkshops) :package: was created to facilitate the development of the R workshops, so the first step is to install and load the package `qcbsRworkshops`.
 
 ```r
 install.packages("remotes")
