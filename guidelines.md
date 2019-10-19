@@ -37,6 +37,7 @@ with a terminal, consider using a Git client such as
 git clone https://github.com/QCBSRworkshops/workshop01.git
 ```
 
+NOTE: if you are a new contributor to the project, you need to first fork the repository to your GitHub account, and then clone the forked repository.
 
 ## Workflow
 
@@ -46,7 +47,12 @@ git clone https://github.com/QCBSRworkshops/workshop01.git
 
 3. Switch branch: `git checkout workshop01_intro`; Note that you can create and switch branch with a single line of command: `git checkout -b workshop01_intro`.
 
-4. Edit the workshop!
+4. **Edit the workshop**! If you want to live preview your changes, use the `infinite_moon_reader()` function:
+
+```r
+# Live preview the workshop01
+xaringan::infinite_moon_reader('workshop01-en/workshop01-en.Rmd')
+```
 
 5. Once you are done editing, render the presentation using `build_workshops()` R function from the `qcbsRworkshops` package to check if everything works:
 
