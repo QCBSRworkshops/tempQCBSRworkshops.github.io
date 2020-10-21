@@ -14,7 +14,7 @@ If you would like to suggest modifications, please contact the current series
 coordinators, listed [on the wiki](https://wiki.qcbs.ca/r). Also, issues can directly be reported on the GitHub repositories, e.g. comments and errors  pertaining to the first workshop can be reported at the following URL https://qcbsrworkshops.github.io/workshop01/.
 
 
-*To contribute to the QCBS R workshops, see [Guidelines for contributors](./guidelines.html). You can find more detailed guidelines [here](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developing-en.html)*
+*To contribute to the QCBS R workshops, see [Guidelines for contributors](./guidelines.html). You can find more detailed guidelines [here](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developing-en.html).*
 
 
 # ![](https://qcbs.ca/wp-content/uploads/2010/05/image0032.png) [Série d'ateliers R du CSBQ](https://wiki.qcbs.ca/r) [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01)
@@ -24,7 +24,7 @@ Cette série de 10 ateliers guide les participants à travers les étapes requis
 Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vous souhaitez y apporter des modifications, veuillez SVP contacter les coordonnateurs actuels de la série, listés [sur le wiki](https://wiki.qcbs.ca/r). Aussi, toutes suggestions peuvent être directement reporté sur les répertoires GitHub, e.g. commentaires et erreurs relatifs au premier atelier peuvent reportés à l'URL suivante https://qcbsrworkshops.github.io/workshop01/.
 
 *Pour contribuer aux ateliers R du CSBQ, veuillez vous référez aux
-[indication pour les contributeurs](./guidelines.html). Consultez des directives plus détaillées [ici](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developper-fr.html)*
+[indication pour les contributeurs](./guidelines.html). Consultez des directives détaillées [ici](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developper-fr.html).*
 
 <br>
 
