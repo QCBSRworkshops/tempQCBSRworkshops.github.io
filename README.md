@@ -74,17 +74,17 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 
 ## Workshop | Atelier 06 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop06) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop06.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop06) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-#### Linear mixed models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop06/workshop06-en/workshop06-en.html)
+#### Generalized linear models  - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop06/workshop06-en/workshop06-en.html)
 
-#### Modèles linéaires mixtes  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop06/workshop06-fr/workshop06-fr.html)
+#### Modèles linéaires généralisés - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop06/workshop06-fr/workshop06-fr.html)
 
 <br>
 
 ## Workshop | Atelier 07 &nbsp;&nbsp; [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop07) [![Build Status](https://travis-ci.org/QCBSRworkshops/workshop07.svg?branch=dev)](https://travis-ci.org/QCBSRworkshops/workshop07) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-#### Generalized linear mixed models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop07/workshop07-en/workshop07-en.html)
+#### General and generalized linear mixed models - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop07/workshop07-en/workshop07-en.html)
 
-#### Modèles linéaires mixtes généralisés  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop07/workshop07-fr/workshop07-fr.html)
+#### Modèles generales et généralisés linéaires mixtes - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop07/workshop07-fr/workshop07-fr.html)
 
 <br>
 
