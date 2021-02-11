@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "katherinehebert",
+      "name": "Katherine Hébert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27461233?v=4",
+      "profile": "https://github.com/katherinehebert",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "QCBSRworkshops.github.io",
+  "projectOwner": "QCBSRworkshops",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
