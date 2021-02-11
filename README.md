@@ -122,6 +122,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://pedrohbraga.github.io/"><img src="https://avatars.githubusercontent.com/u/8599229?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Henrique Pereira Braga</b></sub></a><br /><a href="#projectManagement-pedrohbraga" title="Project Management">📆</a> <a href="#maintenance-pedrohbraga" title="Maintenance">🚧</a> <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/pulls?q=is%3Apr+reviewed-by%3Apedrohbraga" title="Reviewed Pull Requests">👀</a></td>
+=======
+    <td align="center"><a href="https://github.com/katherinehebert"><img src="https://avatars.githubusercontent.com/u/27461233?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Katherine Hébert</b></sub></a><br /><a href="#maintenance-katherinehebert" title="Maintenance">🚧</a> <a href="#projectManagement-katherinehebert" title="Project Management">📆</a> <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/pulls?q=is%3Apr+reviewed-by%3Akatherinehebert" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 

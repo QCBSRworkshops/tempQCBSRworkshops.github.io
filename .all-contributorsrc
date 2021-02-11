@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md"
+    "README.md", "contributors.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -13,6 +13,16 @@
       "contributions": [
         "projectManagement",
         "maintenance",
+        "review"
+       ]
+=======
+      "login": "katherinehebert",
+      "name": "Katherine Hébert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27461233?v=4",
+      "profile": "https://github.com/katherinehebert",
+      "contributions": [
+        "maintenance",
+        "projectManagement",
         "review"
       ]
     }
