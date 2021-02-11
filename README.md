@@ -11,20 +11,19 @@ possible.
 is:issue is:open
 The content of these workshops has been peer-reviewed by several QCBS members.
 If you would like to suggest modifications, please contact the current series
-coordinators, listed [on the wiki](https://wiki.qcbs.ca/r). Also, issues can directly be reported on the GitHub repositories, e.g. comments and errors  pertaining to the first workshop can be reported at the following URL https://qcbsrworkshops.github.io/workshop01/.
+coordinators, listed [on the wiki](https://wiki.qcbs.ca/r). Also, issues can directly be reported on the GitHub repositories, e.g. comments and errors  pertaining to the first workshop can be reported at the following URL https://github.com/QCBSRworkshops/workshop01/issues.
 
 
-*To contribute to the QCBS R workshops, see [Guidelines for contributors](./guidelines.html). You can find more detailed guidelines [here](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developing-en.html).*
+*To contribute to the QCBS R workshops, see our guidelines [here](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developing-en.html).*
 
 
 # ![](https://qcbs.ca/wp-content/uploads/2010/05/image0032.png) [Série d'ateliers R du CSBQ](https://wiki.qcbs.ca/r) [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01)
 
 Cette série de 10 ateliers guide les participants à travers les étapes requises afin de maîtriser le logiciel R pour une grande variété d’analyses statistiques pertinentes en recherche en biologie et en écologie. Ces ateliers en libre accès ont été créés par des membres du CSBQ pour les membres du CSBQ mais aussi pour tous les utilisateurs de R.
 
-Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vous souhaitez y apporter des modifications, veuillez SVP contacter les coordonnateurs actuels de la série, listés [sur le wiki](https://wiki.qcbs.ca/r). Aussi, toutes suggestions peuvent être directement reporté sur les répertoires GitHub, e.g. commentaires et erreurs relatifs au premier atelier peuvent reportés à l'URL suivante https://qcbsrworkshops.github.io/workshop01/.
+Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vous souhaitez y apporter des modifications, veuillez SVP contacter les coordonnateurs actuels de la série, listés [sur le wiki](https://wiki.qcbs.ca/r). Aussi, toutes suggestions peuvent être directement reporté sur les répertoires GitHub, e.g. commentaires et erreurs relatifs au premier atelier peuvent reportés à l'URL suivante https://github.com/QCBSRworkshops/workshop01/issues.
 
-*Pour contribuer aux ateliers R du CSBQ, veuillez vous référez aux
-[indication pour les contributeurs](./guidelines.html). Consultez des directives détaillées [ici](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developper-fr.html).*
+*Pour contribuer aux ateliers R du CSBQ, veuillez vous référez aux directives [ici](https://qcbsrworkshops.github.io/presenter-developer-protocol/_book/developper-fr.html).*
 
 <br>
 
