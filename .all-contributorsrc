@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "pedrohbraga",
+      "name": "Pedro Henrique Pereira Braga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8599229?v=4",
+      "profile": "https://pedrohbraga.github.io/",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "QCBSRworkshops.github.io",
+  "projectOwner": "QCBSRworkshops",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
