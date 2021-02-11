@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "linley-sherin",
+      "name": "Linley Sherin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67920340?v=4",
+      "profile": "https://github.com/linley-sherin",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "QCBSRworkshops.github.io",
+  "projectOwner": "QCBSRworkshops",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
