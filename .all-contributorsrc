@@ -6,6 +6,16 @@
   "commit": false,
   "contributors": [
     {
+      "login": "pedrohbraga",
+      "name": "Pedro Henrique Pereira Braga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8599229?v=4",
+      "profile": "https://pedrohbraga.github.io/",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "review"
+       ]
+=======
       "login": "katherinehebert",
       "name": "Katherine Hébert",
       "avatar_url": "https://avatars.githubusercontent.com/u/27461233?v=4",
