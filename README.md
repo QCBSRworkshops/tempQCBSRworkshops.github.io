@@ -1,4 +1,7 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 # [QCBS R Workshop series](https://wiki.qcbs.ca/r) [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/QCBSRworkshops/workshop01) ![](https://qcbs.ca/wp-content/uploads/2010/05/image0032.png)
@@ -108,3 +111,23 @@ Le contenu de cet atelier a été révisé par plusieurs membres du CSBQ. Si vou
 #### Advanced multivariate analyses - [check the presentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop10/pres-en/workshop10-pres-en.html)
 
 #### Analyses multivariées avancées  - [voir la présentation <i class="fa fa-external-link" aria-hidden="true"></i>](https://qcbsrworkshops.github.io/workshop10/pres-fr/workshop10-pres-fr.html)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/estebangongora"><img src="https://avatars.githubusercontent.com/u/58606227?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Esteban Góngora</b></sub></a><br /><a href="#projectManagement-estebangongora" title="Project Management">📆</a> <a href="#maintenance-estebangongora" title="Maintenance">🚧</a> <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/pulls?q=is%3Apr+reviewed-by%3Aestebangongora" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
